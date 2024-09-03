@@ -1,0 +1,23 @@
+-Access Modifiers
+in java, Access modifiers help to restrict scope of a class, variables, methods or
+data members
+
+-Types of Access Modifiers
+1.Default
+2.Private
+3.Protected
+4.Public
+
+Default access modifier
+-when we don't provide any access modifier then compiler provides default access modifier
+
+-We can use all the access modifiers for variables and method
+
+-For class declaration we can use default and public access modifiers
+
+At which level we are using access modifiers => class level, variable level, and method level
+
+default => class, variable, method
+private => inner classes, variable, method
+protected => inner classes, variable, method
+public => class, variable, method
